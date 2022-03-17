@@ -5,6 +5,6 @@
 
 public class Task1 {
     String name1 = "Привет";
-    String name2 = "Покв";
+    String name2 = "Пока";
     String name3 = "Как твои дела?";
 }
